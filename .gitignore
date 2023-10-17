@@ -1,0 +1,10 @@
+# Ignore node_modules folder (contains Node.js dependencies)
+/react/node_modules/
+
+# Ignore build and output directories
+/react/build/
+/spring/target/
+
+# Ignore IDE-specific files
+.idea/
+.vscode/
